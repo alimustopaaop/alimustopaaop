@@ -167,7 +167,10 @@ profile:
 ### 📈 GitHub Contribution & Activity History
 
 <div align="center">
-  <p><strong>Contribution Calendar</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Activity-Public_%26_Private_Contributions-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Public and Private Activity" />
+  </p>
+  <p><strong>Contribution Calendar (Public & Private Commits)</strong></p>
   <img src="https://ghchart.rshah.org/38bdf8/alimustopaaop" alt="Ali Mustopa's GitHub Contribution Calendar" width="100%" />
 </div>
 
