@@ -38,7 +38,7 @@
 
   <!-- Name & Title -->
   <text x="420.0" y="268" fill="#e6edf3" font-size="25" font-weight="700" text-anchor="middle">Ali Mustopa, M.Kom.</text>
-  <text x="420.0" y="295" fill="#38bdf8" font-size="15" font-weight="600" text-anchor="middle">Lektor · Program Studi Informatika</text>
+  <text x="420.0" y="295" fill="#38bdf8" font-size="15" font-weight="600" text-anchor="middle">Dosen (Lektor) · Program Studi Informatika</text>
   <text x="420.0" y="318" fill="#8b949e" font-size="13" text-anchor="middle">Universitas Bina Sarana Informatika (Kampus Kota Pontianak)</text>
 </g>
 
@@ -51,7 +51,7 @@
     <!-- Academic Position -->
     <text x="0" y="0" class="spec-lbl">Position</text>
     <text x="175" y="0" fill="#8b949e">:</text>
-    <text x="195" y="0" class="spec-val-hi" fill="#39d353">Lektor <tspan fill="#8b949e" font-weight="normal">(NIP: 202110259 · NIDN: 0327119601)</tspan></text>
+    <text x="195" y="0" class="spec-val-hi" fill="#39d353">Dosen (Lektor) <tspan fill="#8b949e" font-weight="normal">(NIP: 202110259 · NIDN: 0327119601)</tspan></text>
 
     <!-- Specialization -->
     <text x="0" y="34" class="spec-lbl">Specialization</text>
@@ -91,7 +91,7 @@
     <!-- Status -->
     <text x="0" y="272" class="spec-lbl">Status</text>
     <text x="175" y="272" fill="#8b949e">:</text>
-    <text x="195" y="272" class="spec-val" fill="#39d353">Active Lecturer &amp; Cross-Platform Engineer</text>
+    <text x="195" y="272" class="spec-val" fill="#39d353">Active Dosen (Lektor) &amp; Cross-Platform Engineer</text>
   </g>
 </g>
 

@@ -29,13 +29,13 @@
 <h3><code>alimustopaaop@github ~ $ ./academic.sh</code></h3>
 
 <p>
-  <b>Lektor (Assistant Professor) · Program Studi Informatika (Kampus Kota Pontianak)</b><br/>
+  <b>Dosen (Lektor) · Program Studi Informatika (Kampus Kota Pontianak)</b><br/>
   <i>Universitas Bina Sarana Informatika (UBSI)</i>
 </p>
 
 <p align="center">
   <a href="https://saysv2.bsi.ac.id/profilpreview/202110259" target="_blank">
-    <img src="https://img.shields.io/badge/SAYS_UBSI-Lektor_Informatika-003366?style=for-the-badge&logo=mortarboard&logoColor=white" alt="UBSI SAYS" />
+    <img src="https://img.shields.io/badge/SAYS_UBSI-Dosen_(Lektor)_Informatika-003366?style=for-the-badge&logo=mortarboard&logoColor=white" alt="UBSI SAYS" />
   </a>
   <a href="https://scholar.google.com/citations?user=ECAjlo4AAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-H--Index_11-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
