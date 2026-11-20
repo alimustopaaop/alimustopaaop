@@ -2,6 +2,13 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=220&section=header&text=Ali%20Mustopa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lecturer%20%7C%20Mobile%20%26%20Web%20Engineer%20%7C%20Image%20Processing%20Specialist&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
+  <!-- Profile Photo Spot -->
+  <p align="center">
+    <a href="https://github.com/alimustopaaop">
+      <img src="https://raw.githubusercontent.com/alimustopaaop/alimustopaaop/main/assets/profile.png" width="135" height="135" alt="Ali Mustopa Profile" />
+    </a>
+  </p>
+
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/alimustopaaop">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Ali+Mustopa+%F0%9F%91%8B;Lecturer+%26+Computer+Science+Researcher;Specialist+in+Image+Processing+%26+Applied+AI;Building+with+Flutter,+Android,+PHP+%26+Laravel;Creative+Design+with+Photoshop+%26+Figma" alt="Typing SVG" />
@@ -143,10 +150,24 @@ profile:
 
 ---
 
+### 📈 GitHub Contribution & Activity History
+
+<div align="center">
+  <p><strong>Contribution Calendar</strong></p>
+  <img src="https://ghchart.rshah.org/38bdf8/alimustopaaop" alt="Ali Mustopa's GitHub Contribution Calendar" width="100%" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <p><strong>Contribution Activity Over Time</strong></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alimustopaaop&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="100%" alt="Contribution Activity Graph" />
+</div>
+
+---
+
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimustopaaop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimustopaaop&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimustopaaop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 </div>
 
