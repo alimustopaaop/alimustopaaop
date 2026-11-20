@@ -15,8 +15,8 @@
     <a href="https://sinta.kemdikbud.go.id/authors/profile/6724399" target="_blank">
       <img src="https://img.shields.io/badge/SINTA-Score_941-008080?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="SINTA" />
     </a>
-    <a href="https://orcid.org/0000-0002-4298-4525" target="_blank">
-      <img src="https://img.shields.io/badge/ORCID-0000--0002--4298--4525-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    <a href="https://orcid.org/0000-0002-5360-8672" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-0000--0002--5360--8672-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
     </a>
     <a href="https://www.scopus.com/authid/detail.uri?authorId=58944153500" target="_blank">
       <img src="https://img.shields.io/badge/Scopus-H--Index_2-FF6F00?style=for-the-badge&logo=elsevier&logoColor=white" alt="Scopus" />
@@ -83,8 +83,8 @@ profile:
       </a>
     </td>
     <td align="center">
-      <a href="https://orcid.org/0000-0002-4298-4525" target="_blank">
-        <img src="https://img.shields.io/badge/ORCID-0000--0002--4298--4525-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
+      <a href="https://orcid.org/0000-0002-5360-8672" target="_blank">
+        <img src="https://img.shields.io/badge/ORCID-0000--0002--5360--8672-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
       </a>
     </td>
     <td align="center">
