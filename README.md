@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=220&section=header&text=Ali%20Mustopa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lecturer%20%7C%20Mobile%20%26%20Web%20Engineer%20%7C%20Image%20Processing%20Specialist&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=220&section=header&text=Ali%20Mustopa%2C%20M.Kom.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lecturer%20%7C%20Mobile%20%26%20Web%20Engineer%20%7C%20Image%20Processing%20Specialist&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Profile Photo Spot -->
   <p align="center">
@@ -11,11 +11,14 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/alimustopaaop">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Ali+Mustopa+%F0%9F%91%8B;Lecturer+%26+Computer+Science+Researcher;Specialist+in+Image+Processing+%26+Applied+AI;Building+with+Flutter,+Android,+PHP+%26+Laravel;Creative+Design+with+Photoshop+%26+Figma" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+there,+I'm+Ali+Mustopa,+M.Kom.+%F0%9F%91%8B;Lecturer+in+Informatics+%26+Computer+Vision+Researcher;Specialist+in+Image+Processing+%26+Applied+AI;Building+with+Flutter,+Android,+PHP+%26+Laravel;Creative+Design+with+Photoshop+%26+Figma" alt="Typing SVG" />
   </a>
 
   <!-- Academic & Contact Badges -->
   <p align="center">
+    <a href="https://saysv2.bsi.ac.id/profilpreview/202110259" target="_blank">
+      <img src="https://img.shields.io/badge/UBSI_Lecturer-NIDN_0327119601-003366?style=for-the-badge&logo=mortarboard&logoColor=white" alt="UBSI Lecturer" />
+    </a>
     <a href="https://scholar.google.com/citations?user=ECAjlo4AAAAJ" target="_blank">
       <img src="https://img.shields.io/badge/Google_Scholar-H--Index_11-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
     </a>
@@ -43,9 +46,14 @@
 
 ```yaml
 profile:
-  name: Ali Mustopa
-  title: Lecturer, Software Engineer & Academic Researcher
-  affiliation: Universitas Bina Sarana Informatika (UBSI)
+  name: Ali Mustopa, M.Kom.
+  title: Lecturer (Asisten Ahli), Software Engineer & Researcher
+  affiliation: Universitas Bina Sarana Informatika (UBSI) - Teknik Informatika
+  academic_credentials:
+    nip: 202110259
+    nidn: 0327119601
+    lecturer_code: AOP
+    degree: Magister Komputer (M.Kom.)
   specialization: Digital Image Processing, Computer Vision & Applied AI
   metrics:
     sinta_score_overall: 941 (3Yr: 449)
@@ -55,7 +63,7 @@ profile:
   status: Educating future developers & building intelligent cross-platform ecosystems
 ```
 
-* 🎓 **Lecturer & Researcher:** Faculty member at **Universitas Bina Sarana Informatika (UBSI)** with deep research expertise in **Digital Image Processing**, **Computer Vision**, and **Machine Learning** (SINTA Score: **941**, Google Scholar h-index: **11**).
+* 🎓 **Lecturer & Academic Researcher:** Faculty member (Dosen) at **Universitas Bina Sarana Informatika (UBSI)**, Program Studi Teknik Informatika (NIP: `202110259`, NIDN: `0327119601`, Inisial: `AOP`), specializing in **Digital Image Processing**, **Computer Vision**, and **Machine Learning** (SINTA Score: **941**, Google Scholar h-index: **11**).
 * 📱 **Mobile Development:** Proven experience engineering responsive, maintainable mobile applications using **Flutter & Dart**, as well as native **Android (Kotlin/Java)**.
 * 🌐 **Web Engineering:** Architecting robust web backends, RESTful APIs, and administrative dashboards using **PHP & Laravel** with relational databases (MySQL).
 * 🎨 **UI/UX & Creative Design:** Proficient with **Adobe Photoshop** and **Figma** for crafting polished application mockups, brand assets, and user-centric interfaces.
@@ -63,17 +71,23 @@ profile:
 
 ---
 
-### 📚 Academic & Research Profile
+### 📚 Academic & Institutional Profiles
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><strong>Google Scholar</strong></td>
-    <td align="center" width="20%"><strong>SINTA Kemdikbud</strong></td>
-    <td align="center" width="20%"><strong>Scopus</strong></td>
-    <td align="center" width="20%"><strong>ORCID</strong></td>
-    <td align="center" width="20%"><strong>Garuda ID</strong></td>
+    <td align="center" width="16%"><strong>UBSI Profile</strong></td>
+    <td align="center" width="16%"><strong>Google Scholar</strong></td>
+    <td align="center" width="16%"><strong>SINTA Kemdikbud</strong></td>
+    <td align="center" width="16%"><strong>Scopus</strong></td>
+    <td align="center" width="16%"><strong>ORCID</strong></td>
+    <td align="center" width="16%"><strong>Garuda ID</strong></td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://saysv2.bsi.ac.id/profilpreview/202110259" target="_blank">
+        <img src="https://img.shields.io/badge/SAYS_UBSI-202110259-003366?style=flat-square&logo=mortarboard&logoColor=white" alt="UBSI Profile" />
+      </a>
+    </td>
     <td align="center">
       <a href="https://scholar.google.com/citations?user=ECAjlo4AAAAJ" target="_blank">
         <img src="https://img.shields.io/badge/Citations-H--Index_11-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" />
