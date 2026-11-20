@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=220&section=header&text=Ali%20Mustopa%2C%20M.Kom.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lecturer%20%7C%20Mobile%20%26%20Web%20Engineer%20%7C%20Image%20Processing%20Specialist&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24&height=220&section=header&text=Ali%20Mustopa%2C%20M.Kom.&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lektor%20%7C%20Mobile%20%26%20Web%20Engineer%20%7C%20Image%20Processing%20Specialist&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Profile Photo Spot -->
   <p align="center">
@@ -11,13 +11,13 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/alimustopaaop">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+there,+I'm+Ali+Mustopa,+M.Kom.+%F0%9F%91%8B;Lecturer+in+Informatics+%26+Computer+Vision+Researcher;Specialist+in+Image+Processing+%26+Applied+AI;Building+with+Flutter,+Android,+PHP+%26+Laravel;Creative+Design+with+Photoshop+%26+Figma" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Hi+there,+I'm+Ali+Mustopa,+M.Kom.+%F0%9F%91%8B;Lektor+Informatika+(UBSI+Kampus+Pontianak);Specialist+in+Image+Processing+%26+Applied+AI;Building+with+Flutter,+Android,+PHP+%26+Laravel;Creative+Design+with+Photoshop+%26+Figma" alt="Typing SVG" />
   </a>
 
   <!-- Academic & Contact Badges -->
   <p align="center">
     <a href="https://saysv2.bsi.ac.id/profilpreview/202110259" target="_blank">
-      <img src="https://img.shields.io/badge/UBSI_Lecturer-NIDN_0327119601-003366?style=for-the-badge&logo=mortarboard&logoColor=white" alt="UBSI Lecturer" />
+      <img src="https://img.shields.io/badge/Lektor_Informatika-UBSI_Pontianak-003366?style=for-the-badge&logo=mortarboard&logoColor=white" alt="Lektor Informatika UBSI Pontianak" />
     </a>
     <a href="https://scholar.google.com/citations?user=ECAjlo4AAAAJ" target="_blank">
       <img src="https://img.shields.io/badge/Google_Scholar-H--Index_11-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
@@ -47,9 +47,11 @@
 ```yaml
 profile:
   name: Ali Mustopa, M.Kom.
-  title: Lecturer (Asisten Ahli), Software Engineer & Researcher
-  affiliation: Universitas Bina Sarana Informatika (UBSI) - Teknik Informatika
+  title: Lektor (Assistant Professor), Software Engineer & Researcher
+  affiliation: Universitas Bina Sarana Informatika (UBSI) - Informatika (Kampus Kota Pontianak)
   academic_credentials:
+    position: Lektor
+    prodi: Informatika (Kampus Kota Pontianak)
     nip: 202110259
     nidn: 0327119601
     lecturer_code: AOP
@@ -59,11 +61,11 @@ profile:
     sinta_score_overall: 941 (3Yr: 449)
     google_scholar_h_index: 11
     scopus_h_index: 2
-  location: Indonesia 🇮🇩
+  location: Pontianak, Indonesia 🇮🇩
   status: Educating future developers & building intelligent cross-platform ecosystems
 ```
 
-* 🎓 **Lecturer & Academic Researcher:** Faculty member (Dosen) at **Universitas Bina Sarana Informatika (UBSI)**, Program Studi Teknik Informatika (NIP: `202110259`, NIDN: `0327119601`, Inisial: `AOP`), specializing in **Digital Image Processing**, **Computer Vision**, and **Machine Learning** (SINTA Score: **941**, Google Scholar h-index: **11**).
+* 🎓 **Lektor & Academic Researcher:** Dosen **Lektor** di **Universitas Bina Sarana Informatika (UBSI)**, Program Studi **Informatika - Kampus Kota Pontianak** (NIP: `202110259`, NIDN: `0327119601`, Inisial: `AOP`), specializing in **Digital Image Processing**, **Computer Vision**, and **Machine Learning** (SINTA Score: **941**, Google Scholar h-index: **11**).
 * 📱 **Mobile Development:** Proven experience engineering responsive, maintainable mobile applications using **Flutter & Dart**, as well as native **Android (Kotlin/Java)**.
 * 🌐 **Web Engineering:** Architecting robust web backends, RESTful APIs, and administrative dashboards using **PHP & Laravel** with relational databases (MySQL).
 * 🎨 **UI/UX & Creative Design:** Proficient with **Adobe Photoshop** and **Figma** for crafting polished application mockups, brand assets, and user-centric interfaces.
